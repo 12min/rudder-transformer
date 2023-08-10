@@ -2,12 +2,12 @@
   {
     "destKey": "external_id",
     "sourceKeys": [
+      "anonymousId",
       "userId",
       "traits.userId",
       "traits.id",
       "context.traits.userId",
-      "context.traits.id",
-      "anonymousId"
+      "context.traits.id"
     ],
     "required": true,
     "metadata": {
